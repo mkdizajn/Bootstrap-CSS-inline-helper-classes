@@ -3,7 +3,7 @@
 * using it: use reference in your head somewhere
 
 ```
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/mkdizajn/massive-octo-bugfixes/master/csshelper.css">
+<link rel="stylesheet" type="text/css" href="http://git.io/AAWO">
 ```
 
 
@@ -14,11 +14,11 @@
 
 * meaning of abbreviation
 
-	- **mt** == margin top
-	- **mb** == margin bottom
-	- **ml** == margin left
-	- **mr** == margin right
-	- **pt** == padding top ... 
-	- **xx** == you get the idea :)
+	- **mt, mr, mb, ml** == margin (top, right, bottom, left)
+	- **pt, pr, pb, pl** == padding (top, right, bottom, left)
+
+Padding and margin that is predefined is in this range:
+
+    - 5, 10, 15, 20 and 30 px
 
 cheers, k
