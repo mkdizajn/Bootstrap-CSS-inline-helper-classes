@@ -11,5 +11,5 @@ paste in your head somewhere
 
 * how does it look like,, and work with inspector
 
-![explanation](https://raw.githubusercontent.com/mkdizajn/massive-octo-bugfixes/master/little_explanation.gif
+![explanation](little_explanation.gif?raw=true, "Little demo :)")
 
