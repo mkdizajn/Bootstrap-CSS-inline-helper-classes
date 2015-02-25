@@ -14,11 +14,11 @@
 
 * meaning of abbreviation
 
-	- mt == margin top
-	- mb == margin bottom
-	- ml == margin left
-	- mr == margin right
-	- pt == padding top ... 
-	- xx == you get the idea :)
+	- **mt** == margin top
+	- **mb** == margin bottom
+	- **ml** == margin left
+	- **mr** == margin right
+	- **pt** == padding top ... 
+	- **xx** == you get the idea :)
 
 cheers, k
