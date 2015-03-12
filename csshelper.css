@@ -6,6 +6,7 @@
 
 	it will add 20px top margin. that's it :)  */
 
+/* helperi */
 .pt5{padding-top: 5px}.pr5{padding-right: 5px}
 .pb5{padding-bottom: 5px}.pl5{padding-left: 5px}
 
@@ -21,6 +22,12 @@
 .pt30{padding-top: 30px}.pr30{padding-right: 30px}
 .pb30{padding-bottom: 30px}.pl30{padding-left: 30px}
 
+.pt40{padding-top: 40px}.pr40{padding-right: 40px}
+.pb40{padding-bottom: 40px}.pl40{padding-left: 40px}
+
+.pt50{padding-top: 50px}.pr50{padding-right: 50px}
+.pb50{padding-bottom: 50px}.pl50{padding-left: 50px}
+
 .mt5{margin-top: 5px}.mr5{margin-right: 5px}
 .mb5{margin-bottom: 5px}.ml5{margin-left: 5px}
 
@@ -35,3 +42,66 @@
 
 .mt30{margin-top: 30px}.mr30{margin-right: 30px}
 .mb30{margin-bottom: 30px}.ml30{margin-left: 30px}
+
+.mt40{margin-top: 40px}.mr40{margin-right: 40px}
+.mb40{margin-bottom: 40px}.ml40{margin-left: 40px}
+
+.mt50{margin-top: 50px}.mr50{margin-right: 50px}
+.mb50{margin-bottom: 50px}.ml50{margin-left: 50px}
+
+/* % % % % % % % %  negative margins and paddings  % % % % % % % % %  */
+
+.mt-5{margin-top: -5px}.mr-5{margin-right: -5px}
+.mb-5{margin-bottom: -5px}.ml-5{margin-left: -5px}
+
+.mt-10{margin-top: -10px}.mr-10{margin-right: -10px}
+.mb-10{margin-bottom: -10px}.ml-10{margin-left: -10px}
+
+.mt-15{margin-top: -15px}.mr-15{margin-right: -15px}
+.mb-15{margin-bottom: -15px}.ml-15{margin-left: -15px}
+
+.mt-20{margin-top: -20px}.mr-20{margin-right: -20px}
+.mb-20{margin-bottom: -20px}.ml-20{margin-left: -20px}
+
+.mt-30{margin-top: -30px}.mr-30{margin-right: -30px}
+.mb-30{margin-bottom: -30px}.ml-30{margin-left: -30px}
+
+.mt-40{margin-top: -40px}.mr-40{margin-right: -40px}
+.mb-40{margin-bottom: -40px}.ml-40{margin-left: -40px}
+
+.mt-50{margin-top: -50px}.mr-50{margin-right: -50px}
+.mb-50{margin-bottom: -50px}.ml-50{margin-left: -50px}
+
+/* % % % % % % % %  percentage layout  % % % % % % % % %  */
+
+.pt5p{padding-top: 5%}.pr5p{padding-right: 5%}
+.pb5p{padding-bottom: 5%}.pl5p{padding-left: 5%}
+
+.pt10p{padding-top: 10%}.pr10p{padding-right: 10%}
+.pb10p{padding-bottom: 10%}.pl10p{padding-left: 10%}
+
+.pt15p{padding-top: 15%}.pr15p{padding-right: 15%}
+.pb15p{padding-bottom: 15%}.pl15p{padding-left: 15%}
+
+.pt20p{padding-top: 20%}.pr20p{padding-right: 20%}
+.pb20p{padding-bottom: 20%}.pl20p{padding-left: 20%}
+
+.pt30p{padding-top: 30%}.pr30p{padding-right: 30%}
+.pb30p{padding-bottom: 30%}.pl30p{padding-left: 30%}
+
+.pt40p{padding-top: 40%}.pr40p{padding-right: 40%}
+.pb40p{padding-bottom: 40%}.pl40p{padding-left: 40%}
+
+.pt50p{padding-top: 50%}.pr50p{padding-right: 50%}
+.pb50p{padding-bottom: 50%}.pl50p{padding-left: 50%}
+/* % % % % % % % %  percentage layout  % % % % % % % % %  */
+
+/* % % % % % % % %  position   % % % % % % % % %  */
+
+.ab{ position: absolute; }
+.abtr{ top:0; right:0; }
+.abtl{ top:0; left:0; }
+.abbr{ bottom:0; right:0; }
+.abbl{ bottom:0; left:0; }
+
+/* % % % % % % % %  position   % % % % % % % % %  */
