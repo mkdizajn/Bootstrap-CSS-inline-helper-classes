@@ -98,6 +98,7 @@
 
 /* % % % % % % % %  position   % % % % % % % % %  */
 
+.rel{ position: relative; }
 .ab{ position: absolute; }
 .abtr{ top:0; right:0; }
 .abtl{ top:0; left:0; }

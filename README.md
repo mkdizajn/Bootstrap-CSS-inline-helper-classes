@@ -18,9 +18,13 @@
 	- **pt, pr, pb, pl** == padding (top, right, bottom, left)
 
 
-* break down of inline elements
+* Let's see what does inline classes does
 
 ![explanation](explanation.jpg?raw=true, "Arrows to inline specific functions")
+
+* Position manipulations ..
+
+![explanation](positions.gif?raw=true, "Position manipulation")
 
 
 Padding and margin that is predefined is in this range:
