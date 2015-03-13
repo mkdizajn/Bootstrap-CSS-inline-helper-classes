@@ -40,8 +40,6 @@
 	- abtr => position absolute top right
 	- abtl => position absolute top left
 	- abbr => position absolute bottom right
-	- abbl => position absolute bottom left
-
-
+	- abbl => position absolute bottom left	
 
 cheers, k
