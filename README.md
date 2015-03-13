@@ -27,9 +27,21 @@
 ![explanation](positions.gif?raw=true, "Position manipulation")
 
 
-Padding and margin that is predefined is in this range:
+* Paddings and margins are predefined in this range:
 
-    - 5, 10, 15, 20 and 30 px
+    - 5, 10, 15, 20, 30, 40 and 50 px (positive)
+    - 5, 10, 15, 20, 30, 40 and 50 -px (negative)
+    - 5, 10, 15, 20, 30, 40 and 50 % (percentage)
+
+* Position classes are:
+
+	- rel => position relative
+	- ab => position absolute
+	- abtr => position absolute top right
+	- abtl => position absolute top left
+	- abbr => position absolute bottom right
+	- abbl => position absolute bottom left
+
 
 
 cheers, k
