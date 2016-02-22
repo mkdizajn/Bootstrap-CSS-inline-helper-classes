@@ -1,9 +1,9 @@
-# Stupid fast inline frontend helpers
+# Stupid fast inline class helpers
 
 * using it: use reference in your head somewhere
 
 ```html
-<link rel="stylesheet" type="text/css" href="//git.io/AAWO">
+<link rel="stylesheet" type="text/css" href="//goo.gl/Vo43dA">
 ```
 
 
