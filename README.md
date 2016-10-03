@@ -18,7 +18,7 @@
 	- **pt, pr, pb, pl** == padding (top, right, bottom, left)
 
 
-* Let's see what does inline classes does
+* Let's see what does inline classes do:
 
 ![explanation](explanation.jpg?raw=true, "Arrows to inline specific functions")
 
@@ -33,7 +33,7 @@
     - 5, 10, 15, 20, 30, 40 and 50 -px (negative)
     - 5, 10, 15, 20, 30, 40 and 50 % (percentage)
 
-* Position classes are:
+* Another thing that you can use are this short classes positioning the objects:
 
 	- rel => position relative
 	- ab => position absolute
@@ -42,6 +42,7 @@
 	- abbr => position absolute bottom right
 	- abbl => position absolute bottom left
 
+just take a look at the generated `gif's` and you'll get the idea :)
 
 
 cheers, k
