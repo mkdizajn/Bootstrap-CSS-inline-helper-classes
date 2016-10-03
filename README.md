@@ -1,11 +1,10 @@
-# Stupid fast inline class helpers
+# Bootstrap fast easy CSS class helpers
 
-* using it: use reference in your head somewhere
+* using it: use reference in your `head` somewhere
 
 ```html
 <link rel="stylesheet" type="text/css" href="//goo.gl/Vo43dA">
 ```
-
 
 * how does it look like,, and work with inspector
 
