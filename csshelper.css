@@ -30,7 +30,7 @@
 .pt50{padding-top: 50px}.pr50{padding-right: 50px}
 .pb50{padding-bottom: 50px}.pl50{padding-left: 50px}
 
-.p0{padding: 0px}
+.pnone{padding: 0px}
 .p5{padding: 5px}
 .p10{padding: 10px}
 .p15{padding: 15px}
@@ -65,7 +65,7 @@
 .mt50{margin-top: 50px}.mr50{margin-right: 50px}
 .mb50{margin-bottom: 50px}.ml50{margin-left: 50px}
 
-.m0{ margin: 0px} 
+.mnone{ margin: 0px} 
 .m5{ margin: 5px} 
 .m10{ margin: 10px}
 .m15{ margin: 15px}
